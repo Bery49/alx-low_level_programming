@@ -20,6 +20,5 @@ length++;
 s++;
 }
 
-return length;
+return length; // Correct and valid return statement in C
 }
-
