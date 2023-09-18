@@ -20,5 +20,5 @@ length++;
 s++;
 }
 
-  return length; // Correct and valid return statement in C
+  return length; /* Correct and valid return statement in C*/
 }
