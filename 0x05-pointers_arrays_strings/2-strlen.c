@@ -20,5 +20,5 @@ length++;
 s++;
 }
 
-return length; /*Return statement with parentheses*/
+return length; // Return statement with parentheses
 }
