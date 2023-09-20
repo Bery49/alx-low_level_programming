@@ -17,6 +17,12 @@ File 7-leet.c is a function that encodes a string into 1337.
 
 File 100-rot13.c is a function that encodes a string using rot13.
 
+file 101-print numbers.c is a funcition that prints numbers.
+
+file 102-magic.c.
+
+file 103-infinite_add.c is a funcition  that adds two numbers.
+
 File _putchar.c is a function that replaces the standard library function putchar().
 
 File main.h is the header file containing all the function prototypes.
